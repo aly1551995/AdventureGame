@@ -1,6 +1,3 @@
-### El Fakiri Rida S183747
-### Abdelaleem Aly S206111
-
 ## What is AdventureGame ?
 
 It's an interactive java object-oriented game where the interaction is done by entering commands expressed in a simple syntax.
